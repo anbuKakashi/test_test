@@ -1,0 +1,4 @@
+I, [2018-07-04T13:24:23.686244 #25989]  INFO -- : Refreshing Gem list
+I, [2018-07-04T13:24:25.711621 #25989]  INFO -- : listening on addr=/home/deployer/test_test/shared/sockets/unicorn.sock fd=11
+I, [2018-07-04T13:24:25.716283 #25989]  INFO -- : master process ready
+I, [2018-07-04T13:24:25.724151 #25992]  INFO -- : worker=0 ready
