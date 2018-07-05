@@ -2,7 +2,7 @@
 app_dir = File.expand_path('../../', __FILE__)
 #app_dir = "/home/deployer/captionhospitality/current/public/"
 #app_dir = File.expand_path('../../public/', __FILE__)
-shared_dir = File.expand_path('../../shared/', __FILE__)
+shared_dir = File.expand_path('../../../../shared/', __FILE__)
 
 # Set unicorn options
 worker_processes 1 
